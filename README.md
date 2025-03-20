@@ -7,3 +7,4 @@ One of my latest projects is a **Weather App** that provides real-time weather u
 ✅ Data visualization  
 
 Feel free to check out the repository and contribute! 😊
+![1742235982371](https://github.com/user-attachments/assets/8df986ed-c1bc-49a4-88cb-98afeb557d67)
